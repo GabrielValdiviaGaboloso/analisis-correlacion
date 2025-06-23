@@ -1,4 +1,4 @@
-# Pesentacion 
+# Análisis y Predicción de Ventas en una Tienda de Retail 
 Introducción y objetivos del proyecto
 Este proyecto tiene como objetivo analizar un conjunto de datos de transacciones de ventas para obtener insights relevantes sobre el comportamiento de los clientes, las tendencias de compra, y el desempeño de los productos. Buscamos entender patrones en la cantidad de productos vendidos, diferencias entre grupos demográficos, y detectar oportunidades para mejorar las estrategias comerciales.
 
